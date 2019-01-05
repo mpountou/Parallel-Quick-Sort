@@ -8,6 +8,11 @@ Clone  Git repository into a specific folder, then execute in bash:
 ```javascript
 ./qsort
 ````
+## After executing qsort you need to insert p and q
+
+* p - Number of threads = 2^p
+* q - Number of size array n = 2^q
+ 
 ## The following piece of code represents how serial Quick-Sort works:
 ```javascript
 /* swap -- swap elements k and l of vector v */
@@ -37,7 +42,7 @@ void qsort_seq(int *v, int n) {
   }
 }
 ```
-## Use Quick Sort for serial sorting:
+## A brief example of Quick Sort for serial sorting:
 
 ```javascript
 
