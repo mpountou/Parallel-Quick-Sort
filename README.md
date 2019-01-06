@@ -1,7 +1,7 @@
 # Parallel-Quick-Sort-Using-PThreads
 Fast implementation of Quick Sort using PThreads
 ## Instructions for Linux
-Clone  Git repository into a specific folder, then execute in bash:
+Clone  git repository into a specific folder, then execute in bash:
 ```javascript
  make
 ````
