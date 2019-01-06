@@ -12,7 +12,8 @@ Clone  git repository into a specific folder, then execute in bash:
 
 * p - Number of threads = 2^p
 * q - Number of size array n = 2^q
- 
+## Ready to go
+![](example.gif) 
 ## The following piece of code represents how serial Quick-Sort works:
 ```javascript
 /* swap -- swap elements k and l of vector v */
